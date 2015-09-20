@@ -1,0 +1,50 @@
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\bin\Debug\grpr3.exe
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\bin\Debug\grpr3.pdb
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.csprojResolveAssemblyReference.cache
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.FormMain.resources
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.Properties.Resources.resources
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.csproj.GenerateResource.Cache
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.exe
+c:\users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.pdb
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\grpr3.exe
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\grpr3.pdb
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\bin\Debug\grpr3.exe
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\bin\Debug\grpr3.pdb
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\grpr3.FormMain.resources
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\grpr3.Properties.Resources.resources
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nastya\Desktop\Новая папка\grpr3\grpr3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\grpr3.exe
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\grpr3.pdb
+C:\Users\Nastya\Desktop\grpr3\grpr3\bin\Debug\grpr3.exe
+C:\Users\Nastya\Desktop\grpr3\grpr3\bin\Debug\grpr3.pdb
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\grpr3.FormMain.resources
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\grpr3.Properties.Resources.resources
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nastya\Desktop\grpr3\grpr3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\nickbel\documents\visual studio 2010\Projects\grpr3\grpr3\obj\x86\Debug\grpr3.FormZ.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.exe
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.pdb
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.csprojResolveAssemblyReference.cache
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.FormZ.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.FormMain.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.Properties.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\obj\x86\Debug\grpr3.csproj.GenerateResource.Cache
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\grpr3.exe
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\grpr3.pdb
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\OpenTK.pdb
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\OpenTK.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Tao.OpenGl.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\Николай\Documents\Visual Studio 2013\Projects\grpr\grpr3\grpr3\bin\Debug\Telerik.WinControls.GridView.dll

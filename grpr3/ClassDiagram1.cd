@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="grpr3.FormMain">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAIQgKCBgAhCFCEmUiAEDkMA7AAogADRPAQAAACQ=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.FormZ">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAEAgCAAAADAAAAAAAAEAQAAQAAAIA=</HashCode>
+      <FileName>FormZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLDrawing">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACAABAAAAAIAIAACAAgJAAAIAMAAAAVAAgA=</HashCode>
+      <FileName>PersonalGL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.Point3D">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLBase">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLPoint">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLLine">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAABAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLTriangle">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLQuad">
+    <Position X="3" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.GLTeapot">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAAAAAAIAAAAAQACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="grpr3.Program">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="grpr3.ObjPack">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAAACAAIAAAQAAAACBAAAAAABAAAAAAAA=</HashCode>
+      <FileName>PersonalGL.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="grpr3.GLMode">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAEIAAAAAAACAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Primitives.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
